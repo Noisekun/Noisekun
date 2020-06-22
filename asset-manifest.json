@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b5f7565.chunk.css",
-    "main.js": "/static/js/main.c22f0a9a.chunk.js",
-    "main.js.map": "/static/js/main.c22f0a9a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7c7e9311.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7c7e9311.js.map",
-    "static/js/2.37d75ee5.chunk.js": "/static/js/2.37d75ee5.chunk.js",
-    "static/js/2.37d75ee5.chunk.js.map": "/static/js/2.37d75ee5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a18bf3fdf0999acc9ec4da6c9644a3be.js": "/precache-manifest.a18bf3fdf0999acc9ec4da6c9644a3be.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1b5f7565.chunk.css.map": "/static/css/main.1b5f7565.chunk.css.map",
-    "static/js/2.37d75ee5.chunk.js.LICENSE.txt": "/static/js/2.37d75ee5.chunk.js.LICENSE.txt"
+    "main.css": "/Noisekun/static/css/main.1b5f7565.chunk.css",
+    "main.js": "/Noisekun/static/js/main.c22f0a9a.chunk.js",
+    "main.js.map": "/Noisekun/static/js/main.c22f0a9a.chunk.js.map",
+    "runtime-main.js": "/Noisekun/static/js/runtime-main.0515b30b.js",
+    "runtime-main.js.map": "/Noisekun/static/js/runtime-main.0515b30b.js.map",
+    "static/js/2.37d75ee5.chunk.js": "/Noisekun/static/js/2.37d75ee5.chunk.js",
+    "static/js/2.37d75ee5.chunk.js.map": "/Noisekun/static/js/2.37d75ee5.chunk.js.map",
+    "index.html": "/Noisekun/index.html",
+    "precache-manifest.7af11be600fc5848af3b51ad34d1ce7c.js": "/Noisekun/precache-manifest.7af11be600fc5848af3b51ad34d1ce7c.js",
+    "service-worker.js": "/Noisekun/service-worker.js",
+    "static/css/main.1b5f7565.chunk.css.map": "/Noisekun/static/css/main.1b5f7565.chunk.css.map",
+    "static/js/2.37d75ee5.chunk.js.LICENSE.txt": "/Noisekun/static/js/2.37d75ee5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c7e9311.js",
+    "static/js/runtime-main.0515b30b.js",
     "static/js/2.37d75ee5.chunk.js",
     "static/css/main.1b5f7565.chunk.css",
     "static/js/main.c22f0a9a.chunk.js"
