@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Noisekun/static/css/main.24ad5065.chunk.css",
-    "main.js": "/Noisekun/static/js/main.381928af.chunk.js",
-    "main.js.map": "/Noisekun/static/js/main.381928af.chunk.js.map",
+    "main.css": "/Noisekun/static/css/main.f830fc0d.chunk.css",
+    "main.js": "/Noisekun/static/js/main.ef341d01.chunk.js",
+    "main.js.map": "/Noisekun/static/js/main.ef341d01.chunk.js.map",
     "runtime-main.js": "/Noisekun/static/js/runtime-main.0515b30b.js",
     "runtime-main.js.map": "/Noisekun/static/js/runtime-main.0515b30b.js.map",
     "static/js/2.37d75ee5.chunk.js": "/Noisekun/static/js/2.37d75ee5.chunk.js",
     "static/js/2.37d75ee5.chunk.js.map": "/Noisekun/static/js/2.37d75ee5.chunk.js.map",
     "index.html": "/Noisekun/index.html",
-    "precache-manifest.55afd859cdf349574afe44507ef0232e.js": "/Noisekun/precache-manifest.55afd859cdf349574afe44507ef0232e.js",
+    "precache-manifest.38f8298c8f62fb143ac2b1d539a9b3ee.js": "/Noisekun/precache-manifest.38f8298c8f62fb143ac2b1d539a9b3ee.js",
     "service-worker.js": "/Noisekun/service-worker.js",
-    "static/css/main.24ad5065.chunk.css.map": "/Noisekun/static/css/main.24ad5065.chunk.css.map",
+    "static/css/main.f830fc0d.chunk.css.map": "/Noisekun/static/css/main.f830fc0d.chunk.css.map",
     "static/js/2.37d75ee5.chunk.js.LICENSE.txt": "/Noisekun/static/js/2.37d75ee5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0515b30b.js",
     "static/js/2.37d75ee5.chunk.js",
-    "static/css/main.24ad5065.chunk.css",
-    "static/js/main.381928af.chunk.js"
+    "static/css/main.f830fc0d.chunk.css",
+    "static/js/main.ef341d01.chunk.js"
   ]
 }
