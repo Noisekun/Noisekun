@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3116b1131cd0b480eae4991217ae5682",
+    "revision": "8fbe1a67198ab5af04169fa936a9c02e",
     "url": "/Noisekun/index.html"
   },
   {
-    "revision": "5233fd1dcb73e921bc87",
+    "revision": "3b75cc5271400a7fb739",
     "url": "/Noisekun/static/css/main.26d35983.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Noisekun/static/js/2.1c06a452.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5233fd1dcb73e921bc87",
-    "url": "/Noisekun/static/js/main.769aa3a2.chunk.js"
+    "revision": "3b75cc5271400a7fb739",
+    "url": "/Noisekun/static/js/main.2c28ccaf.chunk.js"
   },
   {
     "revision": "6426fec3a28d7363680f",
