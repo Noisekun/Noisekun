@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Noisekun/precache-manifest.b246443fb14dfa36e7176a9065bb0774.js"
+  "/Noisekun/precache-manifest.9bf084e1b2268f949c64fa8ccc503520.js"
 );
 
 self.addEventListener('message', (event) => {
