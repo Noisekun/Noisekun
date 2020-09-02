@@ -14,11 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-<<<<<<< HEAD
-  "/Noisekun/precache-manifest.9bf084e1b2268f949c64fa8ccc503520.js"
-=======
-  "/Noisekun/precache-manifest.ee5056650d2136e8c6a809a3177bd1ce.js"
->>>>>>> parent of 91e8322... Updates
+  "/Noisekun/precache-manifest.42b9da917f058985f7010623f7691c29.js"
 );
 
 self.addEventListener('message', (event) => {

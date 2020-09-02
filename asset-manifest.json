@@ -1,19 +1,35 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.js": "/Noisekun/static/js/main.17de5d32.chunk.js",
     "main.js.map": "/Noisekun/static/js/main.17de5d32.chunk.js.map",
+=======
+    "main.css": "/Noisekun/static/css/main.627f8239.chunk.css",
+    "main.js": "/Noisekun/static/js/main.4e954faa.chunk.js",
+    "main.js.map": "/Noisekun/static/js/main.4e954faa.chunk.js.map",
+>>>>>>> parent of 91e8322... Updates
     "runtime-main.js": "/Noisekun/static/js/runtime-main.25c0d679.js",
     "runtime-main.js.map": "/Noisekun/static/js/runtime-main.25c0d679.js.map",
     "static/js/2.7ebece7d.chunk.js": "/Noisekun/static/js/2.7ebece7d.chunk.js",
     "static/js/2.7ebece7d.chunk.js.map": "/Noisekun/static/js/2.7ebece7d.chunk.js.map",
     "index.html": "/Noisekun/index.html",
+<<<<<<< HEAD
     "precache-manifest.9bf084e1b2268f949c64fa8ccc503520.js": "/Noisekun/precache-manifest.9bf084e1b2268f949c64fa8ccc503520.js",
+=======
+    "precache-manifest.ee5056650d2136e8c6a809a3177bd1ce.js": "/Noisekun/precache-manifest.ee5056650d2136e8c6a809a3177bd1ce.js",
+>>>>>>> parent of 91e8322... Updates
     "service-worker.js": "/Noisekun/service-worker.js",
     "static/js/2.7ebece7d.chunk.js.LICENSE.txt": "/Noisekun/static/js/2.7ebece7d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.25c0d679.js",
+<<<<<<< HEAD
     "static/js/2.7ebece7d.chunk.js",
     "static/js/main.17de5d32.chunk.js"
+=======
+    "static/js/2.86a49524.chunk.js",
+    "static/css/main.627f8239.chunk.css",
+    "static/js/main.4e954faa.chunk.js"
+>>>>>>> parent of 91e8322... Updates
   ]
 }
