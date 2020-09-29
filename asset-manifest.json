@@ -4,16 +4,16 @@
     "main.js.map": "/Noisekun/static/js/main.c86389e7.chunk.js.map",
     "runtime-main.js": "/Noisekun/static/js/runtime-main.25c0d679.js",
     "runtime-main.js.map": "/Noisekun/static/js/runtime-main.25c0d679.js.map",
-    "static/js/2.fa619960.chunk.js": "/Noisekun/static/js/2.fa619960.chunk.js",
-    "static/js/2.fa619960.chunk.js.map": "/Noisekun/static/js/2.fa619960.chunk.js.map",
+    "static/js/2.99153bfd.chunk.js": "/Noisekun/static/js/2.99153bfd.chunk.js",
+    "static/js/2.99153bfd.chunk.js.map": "/Noisekun/static/js/2.99153bfd.chunk.js.map",
     "index.html": "/Noisekun/index.html",
-    "precache-manifest.1c1543b03cbd0ad51ac1057de038949a.js": "/Noisekun/precache-manifest.1c1543b03cbd0ad51ac1057de038949a.js",
+    "precache-manifest.6849de86527e2cc2197405ec2fe5ed0c.js": "/Noisekun/precache-manifest.6849de86527e2cc2197405ec2fe5ed0c.js",
     "service-worker.js": "/Noisekun/service-worker.js",
-    "static/js/2.fa619960.chunk.js.LICENSE.txt": "/Noisekun/static/js/2.fa619960.chunk.js.LICENSE.txt"
+    "static/js/2.99153bfd.chunk.js.LICENSE.txt": "/Noisekun/static/js/2.99153bfd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.25c0d679.js",
-    "static/js/2.fa619960.chunk.js",
+    "static/js/2.99153bfd.chunk.js",
     "static/js/main.c86389e7.chunk.js"
   ]
 }
